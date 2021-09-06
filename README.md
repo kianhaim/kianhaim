@@ -17,7 +17,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
+[![Javascript Badge](https://img.shields.io/badge/-Java_script-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) 
  [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)
   [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
   
@@ -26,11 +26,11 @@
   
   [![Express Badge](https://img.shields.io/badge/-Express-007acc?style=for-the-badge&labelColor=black&logo=express&logoColor=007acc)](#) [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=663399)](#)
   
-  [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
+  [![Nodejs Badge](https://img.shields.io/badge/-Node_js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
  
  #### Game Development
  
  [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)](#) 
- [![C sharp Badge](https://img.shields.io/badge/-Csharp-452170?style=for-the-badge&labelColor=black&logo=csharp&logoColor=452170)](#)
-  [![Affinity Designer Badge](https://img.shields.io/badge/-AffinityDesigner-1B72BE?style=for-the-badge&labelColor=black&logo=affinitydesigner&logoColor=1B72BE)](#)
+ [![C sharp Badge](https://img.shields.io/badge/-C_Sharp-452170?style=for-the-badge&labelColor=black&logo=csharp&logoColor=452170)](#)
+  [![Affinity Designer Badge](https://img.shields.io/badge/-Affinity_Designer-1B72BE?style=for-the-badge&labelColor=black&logo=affinitydesigner&logoColor=1B72BE)](#)
 
