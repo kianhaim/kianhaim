@@ -28,3 +28,8 @@
   
   [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)
  
+ #### Game Development
+ 
+ [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)](#) 
+ [![C sharp Badge](https://img.shields.io/badge/-Csharp-452170?style=for-the-badge&labelColor=black&logo=csharp&logoColor=452170)](#)
+
