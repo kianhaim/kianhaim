@@ -9,7 +9,7 @@
 - 🔭 Self-Taught Front-End Web and Game Developer
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 📫 How to reach me: kristianhaim@gmail.com.
-- ⚡ Fun fact: Aside form Web Development, 
+- ⚡ Fun fact: Aside from Web Development, 
 - I'm also developing my dream video game.
   (Shadow Exceed - A metroidvania, souls-like game.).
 
