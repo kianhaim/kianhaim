@@ -32,4 +32,5 @@
  
  [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=000000)](#) 
  [![C sharp Badge](https://img.shields.io/badge/-Csharp-452170?style=for-the-badge&labelColor=black&logo=csharp&logoColor=452170)](#)
+  [![Affinity Designer Badge](https://img.shields.io/badge/-AffinityDesigner-1B72BE?style=for-the-badge&labelColor=black&logo=affinitydesigner&logoColor=1B72BE)](#)
 
