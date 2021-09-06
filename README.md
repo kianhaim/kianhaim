@@ -19,7 +19,7 @@
 
   [![Javascript Badge](https://img.shields.io/badge/-Java_script-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
   
-  [![React Badge](https://img.shields.io/badge/-React_JS-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#) [![Nodejs Badge](https://img.shields.io/badge/-Node_js-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+  [![React Badge](https://img.shields.io/badge/-React_JS-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764ABC)](#)
  
   
  
@@ -30,6 +30,6 @@
  #### Game Development
  
  [![Unity Badge](https://img.shields.io/badge/-Unity-FFFFFF?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)](#) 
- [![C sharp Badge](https://img.shields.io/badge/-C_Sharp-452170?style=for-the-badge&labelColor=black&logo=csharp&logoColor=452170)](#)
+ [![C sharp Badge](https://img.shields.io/badge/-C_Sharp-239120?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)
   [![Affinity Designer Badge](https://img.shields.io/badge/-Affinity_Designer-1B72BE?style=for-the-badge&labelColor=black&logo=affinitydesigner&logoColor=1B72BE)](#)
 
