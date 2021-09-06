@@ -13,7 +13,7 @@
 - I'm also developing my dream video game.
   (Shadow Exceed - A metroidvania, souls-like game.).
 
-#### My Technologies Stack
+#### My Top Technologies 
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
