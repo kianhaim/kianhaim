@@ -19,7 +19,7 @@
 
   [![Javascript Badge](https://img.shields.io/badge/-Java_script-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
   
-  [![Svelte Badge](https://img.shields.io/badge/-Svelte-c0392b?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
+  [![Svelte Badge](https://img.shields.io/badge/-Svelte-c0392b?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#) [![React Badge](https://img.shields.io/badge/-React_JS-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
   
   [![Express Badge](https://img.shields.io/badge/-Express-007acc?style=for-the-badge&labelColor=black&logo=express&logoColor=007acc)](#) [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=663399)](#)
   
