@@ -17,7 +17,7 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-  [![Javascript Badge](https://img.shields.io/badge/-Java_script-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
+  [![Javascript Badge](https://img.shields.io/badge/-Java_script-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Type Script Badge](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)[![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#) [![SASS Badge](https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
   
   [![React Badge](https://img.shields.io/badge/-React_JS-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764ABC)](#)
  
