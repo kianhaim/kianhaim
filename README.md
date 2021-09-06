@@ -6,7 +6,7 @@
 - 🔭 Self-Taught Front-End Web and Game Developer
 - :computer: Most used line of code `"function ()"`
 - ⚡ Fun fact: Aside from Web Development, 
-- I'm also developing my dream video game.
+ I'm also developing my dream video game.
   (Shadow Exceed - A metroidvania, souls-like game.).
 #### :mailbox: How to reach me: kristianhaim@gmail.com.
 [![Linkedin Badge](https://img.shields.io/badge/-Kristian_Haim-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristian-haim-aa6b931ab/)   [![Mail Badge](https://img.shields.io/badge/-Kristian_Haim-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kristianhaim@gmail.com) 
