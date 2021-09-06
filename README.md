@@ -11,7 +11,7 @@
 - 📫 How to reach me: kristianhaim@gmail.com.
 - ⚡ Fun fact: Aside form Web Development, 
 - I'm also developing my dream video game.
-  (Shadow Exceed - A metroidvania, soul-like game.).
+  (Shadow Exceed - A metroidvania, souls-like game.).
 
 #### Top Technologies
 
