@@ -19,7 +19,7 @@
 <!-- TODO: Make technologies links takes you to repositories -->
 
 [![Javascript Badge](https://img.shields.io/badge/-Java_script-000000?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)    [![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)   [![SASS Badge](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
- [![Tailwind CSS Badge](https://img.shields.io/badge/-TailwindCSS-000000?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
+ [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
   
 [![React Badge](https://img.shields.io/badge/-React_JS-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#)
  
