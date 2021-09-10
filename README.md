@@ -4,7 +4,7 @@
 
 
 - 🔭 Self-Taught Front-End Web and Game Developer
-- :computer: Most used line of code `"const functionName = parameter => {}"`
+- :computer: Most used line of code `"const functionName = props => {}"`
 - ⚡ Fun fact: Aside from Web Development, 
  I'm also developing my dream video game.
   (Shadow Exceed - A metroidvania, souls-like game.).
