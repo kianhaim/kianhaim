@@ -26,7 +26,7 @@
   
  
   #### Currently Learning
-  [![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![Svelte Badge](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)   [![Gatsby Badge](https://img.shields.io/badge/-Gatsby-000000?style=for-the-badge&labelColor=black&logo=gatsby&logoColor=663399)](#)   [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-000000?style=for-the-badge&labelColor=black&logo=graphql&logoColor=e535ab)](#)  
+  [![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![Svelte Badge](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)   [![Gatsby Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=663399)](#)   [![GraphQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#)  
   
  #### Game Development
  [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)](#)   [![C sharp Badge](https://img.shields.io/badge/-C_Sharp-000000?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)   [![Affinity Designer Badge](https://img.shields.io/badge/-Affinity_Designer-000000?style=for-the-badge&labelColor=black&logo=affinitydesigner&logoColor=1B72BE)](#)
