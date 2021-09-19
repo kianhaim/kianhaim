@@ -18,15 +18,16 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Java_script-000000?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)    [![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)   [![SASS Badge](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&labelColor=black&logo=sass&logoColor=CC6699)](#)
- [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)
+[![Javascript Badge](https://img.shields.io/badge/-Java_script-000000?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)   [![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)   [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind-000000?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)   
+
   
-[![React Badge](https://img.shields.io/badge/-React_JS-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#)
+[![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)   [![React Badge](https://img.shields.io/badge/-React_JS-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#)
  
+ [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=CC6699)](#)   [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#)  
   
  
   #### Currently Learning
-  [![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![Svelte Badge](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)   [![Gatsby Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=663399)](#)   [![GraphQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#)  
+   [![Svelte Badge](https://img.shields.io/badge/-Svelte-000000?style=for-the-badge&labelColor=black&logo=svelte&logoColor=FF3E00)](#)   [![Gatsby Badge](https://img.shields.io/badge/-Express-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=663399)](#)  
   
  #### Game Development
  [![Unity Badge](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&labelColor=black&logo=unity&logoColor=FFFFFF)](#)   [![C sharp Badge](https://img.shields.io/badge/-C_Sharp-000000?style=for-the-badge&labelColor=black&logo=csharp&logoColor=239120)](#)   [![Affinity Designer Badge](https://img.shields.io/badge/-Affinity_Designer-000000?style=for-the-badge&labelColor=black&logo=affinitydesigner&logoColor=1B72BE)](#)
