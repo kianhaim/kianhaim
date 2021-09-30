@@ -23,7 +23,7 @@
   
 [![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#)   [![React Badge](https://img.shields.io/badge/-React_JS-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)   [![Redux Badge](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)   [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#)
  
- [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=E10098)](#)   [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#)  #
+ [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=E10098)](#)   [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#)  
   
  
   #### Currently Learning
