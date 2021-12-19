@@ -18,10 +18,12 @@
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
-[![Javascript Badge](https://img.shields.io/badge/-Java_script-000000?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)   [![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)   [![Sass Badge](https://img.shields.io/badge/-Sass-000000?style=for-the-badge&labelColor=black&logo=Sass&logoColor=CC6699)](#)   [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#)  
-
+[![Javascript Badge](https://img.shields.io/badge/-Java_script-000000?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)   [![HTML5 Badge](https://img.shields.io/badge/-HTML5-000000?style=for-the-badge&labelColor=black&logo=html5&logoColor=E34F26)](#)   [![CSS Badge](https://img.shields.io/badge/-CSS3-000000?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=1572B6)](#)   [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwind_CSS-000000?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=38B2AC)](#) 
   
-[![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![React Badge](https://img.shields.io/badge/-React_JS-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#)  [![Node js Badge](https://img.shields.io/badge/-Node_js-000000?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#) [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=E10098)](#)  [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#) 
+[![Type Script Badge](https://img.shields.io/badge/-Typescript-000000?style=for-the-badge&labelColor=black&logo=typescript&logoColor=3178C6)](#) [![React Badge](https://img.shields.io/badge/-React_JS-000000?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Redux Badge](https://img.shields.io/badge/-Redux-000000?style=for-the-badge&labelColor=black&logo=redux&logoColor=764ABC)](#) [![Next Js Badge](https://img.shields.io/badge/-Next_js-000000?style=for-the-badge&labelColor=black&logo=nextdotjs&logoColor=FFFFFF)](#) 
+
+
+ [![Node js Badge](https://img.shields.io/badge/-Node_js-000000?style=for-the-badge&labelColor=black&logo=node.js&logoColor=339933)](#)  [![GraphQL Badge](https://img.shields.io/badge/-GraphQL-000000?style=for-the-badge&labelColor=black&logo=GraphQL&logoColor=E10098)](#)  [![PostgreSQL Badge](https://img.shields.io/badge/-PostgreSQL-000000?style=for-the-badge&labelColor=black&logo=postgreSQL&logoColor=4169E1)](#) 
     
  
   
